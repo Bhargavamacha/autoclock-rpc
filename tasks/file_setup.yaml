@@ -27,6 +27,17 @@
     owner: solana
     group: solana
     mode: "0755"
+
+- name: copy libyellowstone_grpc_geyser.so
+  become: true
+  become_user: solana
+  copy:
+    src: libyellowstone_grpc_geyser.so
+    dest: /home/solana/libyellowstone_grpc_geyser.so
+    owner: solana
+    group: solana
+    mode: "0755"
+    
     
 - name: copy download_start.sh
   become: true

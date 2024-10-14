@@ -1,5 +1,5 @@
 {
-    "libpath": "./libyellowstone_grpc_geyser.so",
+    "libpath": "/home/solana/libyellowstone_grpc_geyser.so",
     "log": {
         "level": "info"
     },
