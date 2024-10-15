@@ -44,5 +44,4 @@ exec /mnt/solana/target/release/solana-validator \
 --known-validator Certusm1sa411sMpV9FPqU5dXAYhmmhygvxJ23S6hJ24 \
 --known-validator 9bkyxgYxRrysC1ijd6iByp9idn112CnYTw243fdH2Uvr \
 --known-validator 12ashmTiFStQ8RGUpi1BTCinJakVyDKWjRL6SWhnbxbT \
---known-validator FdaysQ2BZWUGBy8nqFgiudnrhzJp4xChQ8B4zJdc2JZB \
---geyser-plugin-config /home/solana/geyser_config.json
+--known-validator FdaysQ2BZWUGBy8nqFgiudnrhzJp4xChQ8B4zJdc2JZB
